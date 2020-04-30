@@ -15,13 +15,14 @@ There are 3 types of clouds :
 3. It provides free electricity.
 4. High storage capacity.
 
-# **Elastic Compute Cloud**
+# **Elastic Compute Cloud-EC2**
 - *EC2 is the most used AWS service. It lets users create virtual machines of their own choice of configurations.*
 - *It lets users launch and manage server instances, at any time and for as long as one needs.*
 - *EC2 enables on-demand, scalable computing capacity in the AWS cloud.*
 - *It enables you to build and run applications faster. You can use EC2 in AWS to launch as many virtual servers as you need.*
 - *Key and Value pairs are used to identify the particular instance while it is running.*
-## **Benifts of EC2**
+
+## **Benefits of EC2**
 ### 1.Auto-scaling:
 - *Auto-scaling is basically providing resources according to the demand. They either scale up or scale down corresponding to the increase or decrease in demand.*
 ### 2.Pay-as-you-go:
