@@ -126,7 +126,7 @@ g++ 1st.cpp -o 1st
  It will show output.
 
 ### **Below are few more examples:**
-[first](https://github.com/aishwarya96-cmd/cloud/blob/aishwarya/first.md)
+[1.example1](https://github.com/aishwarya96-cmd/cloud/blob/aishwarya/first.md)
 
 
 
