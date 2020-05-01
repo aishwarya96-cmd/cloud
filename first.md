@@ -5,13 +5,9 @@
 using namespace std;
 int main()
 {    
-	int a,##iob,c;
-  cout<<"enter two numbers";
-	cin>>a>>b;
-	c=a+b;
-	cout<<"result="<<c;
-	return 0;
+	int a=5,b=2;
+	cout<<a+b<<endl;
 }
 ```
-## **Output**
+
 
