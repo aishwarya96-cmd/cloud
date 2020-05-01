@@ -74,6 +74,7 @@ There are 3 types of clouds :
 6.*Microsoft SQL Server*
 - *Once the database is created and the status is changed to Available you need to connect it with your local MySQL shell and can perform operations.*
 
-[first](https://github.com/aishwarya96-cmd/cloud/blob/master/first.md)
+[first](https://github.com/aishwarya96-cmd/cloud/blob/aishwarya/first.md)
+
 
 
