@@ -126,7 +126,9 @@ g++ 1st.cpp -o 1st
  It will show output.
 
 ### **Below are few more examples:**
-[1.example1](https://github.com/aishwarya96-cmd/cloud/blob/aishwarya/first.md)
+1.[Addition of two numbers](https://github.com/aishwarya96-cmd/cloud/blob/aishwarya/first.md)
+
+2.[Calling of display1 function from display2 function](https://github.com/aishwarya96-cmd/cloud/blob/aishwarya/second.md)
 
 
 
