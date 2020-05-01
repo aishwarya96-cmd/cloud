@@ -74,6 +74,59 @@ There are 3 types of clouds :
 6.*Microsoft SQL Server*
 - *Once the database is created and the status is changed to Available you need to connect it with your local MySQL shell and can perform operations.*
 
+# **Writing and Compiling C++ on Linux**
+
+## **Step1:** Run the below command to install gcc compiler
+```
+$ sudo yum -y install gcc-c++
+```
+## **step2:** To check gcc version and if it is installed properly type this command
+```
+$ gcc –version or gcc –v
+```
+## **step3:** Now go to that folder where you will create C/C++ programs. I am creating my programs in c++ directory. Type these commands:
+```
+$ mkdir c++
+$ cd c++/
+```
+## **step4:** Now create a cpp file inside  c++ directory using below command.Here for example I am creating a file 1st.cpp
+
+```
+$ vi 1st.cpp
+```
+## **step4:** Add the code of your choice inside the file .For Example swapping of two numbers.
+```
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int a = 5, b = 10, temp;
+
+    cout << "Before swapping." << endl;
+    cout << "a = " << a << ", b = " << b << endl;
+
+    temp = a;
+    a = b;
+    b = temp;
+
+    cout << "\nAfter swapping." << endl;
+    cout << "a = " << a << ", b = " << b << endl;
+
+    return 0;
+}
+```
+## **step5:** Use the below command to compile the code.
+```
+g++ 1st.cpp -o 1st
+```
+## **step6:** Run the code using below.
+```
+./1st
+```
+## ** It will show output.**
+
+## **Below are few more examples:**
 [first](https://github.com/aishwarya96-cmd/cloud/blob/aishwarya/first.md)
 
 
