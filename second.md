@@ -39,3 +39,5 @@ int main()
 }
 
 Output:
+
+![secondop](https://user-images.githubusercontent.com/63540937/80830309-f111d880-8c12-11ea-8c71-f547f7489bb4.jpg)
