@@ -1,4 +1,4 @@
-[Cloud computing](#Cloud computing)
+[Cloud computing](#Cloud-computing)
 
 # **Cloud computing**
 
