@@ -8,4 +8,4 @@ int main()
 	cout<<a+b<<endl;
 }
 ```
-![Image](C:\Users\acer\Desktop)
+![firstop](C:\Users\acer\Desktop\firstop)
