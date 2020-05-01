@@ -8,4 +8,4 @@ int main()
 	cout<<a+b<<endl;
 }
 ```
-![firstop](\Users\acer\Desktop\firstop)
+![output](https://octodex.github.com\cppimages\firstop.jpg)
