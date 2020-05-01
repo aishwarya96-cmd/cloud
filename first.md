@@ -8,4 +8,4 @@ int main()
 	cout<<a+b<<endl;
 }
 ```
-![output](https://github.com/aishwarya96-cmd/cloud/edit/aishwarya/first.md/cppimages/firstop.jpg)
+![firstop](https://user-images.githubusercontent.com/63540937/80828919-544e3b80-8c10-11ea-817e-5510f27b51a5.jpg)
