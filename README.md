@@ -76,7 +76,7 @@ There are 3 types of clouds :
 
 # **Steps for Writing and Compiling C++ on Linux**
 Kindly refer the below link for steps and examples on how to compile and run cpp programs on linux.
- https://github.com/aishwarya96-cmd/cloud/tree/cpp-programs
+https://github.com/aishwarya96-cmd/cloud/blob/cpp-programs/steps%20to%20compile%20and%20run%20cpp%20program%20using%20linux%20.md
 
 
 
