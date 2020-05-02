@@ -39,3 +39,5 @@ int main()
 	m2->function();
 }
 ```
+## Output:
+![3rd](https://user-images.githubusercontent.com/63540937/80867236-57ebcc00-8cbd-11ea-8444-e14f49cba088.jpg)
