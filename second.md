@@ -1,3 +1,5 @@
+# ***Calling display 1 from display 2***
+```
 #include<iostream>
 
 using namespace std;
@@ -37,6 +39,7 @@ int main()
 	m2.disp2(m1);	
 	return 0;
 }
+```
 
 Output:
 
