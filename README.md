@@ -123,12 +123,19 @@ g++ 1st.cpp -o 1st
 ```
 ./1st
 ```
- It will show output.
+ ### **Output:**
+![swap](https://user-images.githubusercontent.com/63540937/80867258-88cc0100-8cbd-11ea-8951-919c54290e38.jpg)
+
+
 
 ### **Below are few more examples:**
 1.[Addition of two numbers](https://github.com/aishwarya96-cmd/cloud/blob/aishwarya/first.md)
 
 2.[Calling of display1 function from display2 function](https://github.com/aishwarya96-cmd/cloud/blob/aishwarya/second.md)
+
+3.[Display output using Virtual function](https://github.com/aishwarya96-cmd/cloud/blob/aishwarya/third.md)
+
+4.[Concatenation of two strings](https://github.com/aishwarya96-cmd/cloud/blob/aishwarya/fourth.md)
 
 
 
