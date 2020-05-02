@@ -41,4 +41,6 @@ class First
 	  return 0;
   }
   ```
+  ## Output:
+![4th](https://user-images.githubusercontent.com/63540937/80867246-718d1380-8cbd-11ea-8817-a0999885d20b.jpg)
 
