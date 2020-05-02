@@ -53,13 +53,13 @@ g++ 1st.cpp -o 1st
 
 
 ### **Below are few more examples:**
-1.[Addition of two numbers](https://github.com/aishwarya96-cmd/cloud/blob/aishwarya/first.md)
+1.[Addition of two numbers](https://github.com/aishwarya96-cmd/cloud/blob/cpp-programs/first.md)
 
-2.[Calling of display1 function from display2 function](https://github.com/aishwarya96-cmd/cloud/blob/aishwarya/second.md)
+2.[Calling of display1 function from display2 function](https://github.com/aishwarya96-cmd/cloud/blob/cpp-programs/second.md)
 
-3.[Display output using Virtual function](https://github.com/aishwarya96-cmd/cloud/blob/aishwarya/third.md)
+3.[Display output using Virtual function](https://github.com/aishwarya96-cmd/cloud/blob/cpp-programs/third.md)
 
-4.[Concatenation of two strings](https://github.com/aishwarya96-cmd/cloud/blob/aishwarya/fourth.md)
+4.[Concatenation of two strings](https://github.com/aishwarya96-cmd/cloud/blob/cpp-programs/fourth.md)
 
 
 
