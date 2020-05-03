@@ -1,5 +1,5 @@
 
-##**Elastic Compute Cloud-EC2**
+## **Elastic Compute Cloud-EC2**
 - *EC2 is the most used AWS service. It lets users create virtual machines of their own choice of configurations.*
 - *It lets users launch and manage server instances, at any time and for as long as one needs.*
 - *EC2 enables on-demand, scalable computing capacity in the AWS cloud.*
