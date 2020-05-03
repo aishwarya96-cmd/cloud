@@ -19,19 +19,8 @@ There are 3 types of clouds :
 
 # **Services of AWS**
 1.[Elastic Compute Cloud-EC2](https://github.com/aishwarya96-cmd/cloud/blob/services/ec2.md)
+2.[Simple Storage Service-S3](https://github.com/aishwarya96-cmd/cloud/blob/services/S3.md)
 
-
-
-
-# **Simple Storage Service-S3**
-- *S3 has a simple web services interface that we can use to store and retrieve any amount of data, at any time, from anywhere on the web.*
-- *S3 is secure,durable and highly scalable.S3 provides 99.999999999% durability of objects.*
-- *Within the S3 service we create 'Buckets'. Buckets are used to store object based files and can be thought of as folders.*
-- *Bucket names are common throughout web,hence it must be very unique.*
-- *S3 stores data as objects within buckets. An object consists of a file and optionally any metadata that describes that file.*
-- *To store an object in  S3, the we can upload the file that they wants to store in the bucket.*
-- *The total volume of data and number of objects you can store are unlimited.* 
-- *Using S3 we can also launch static web pages by configuring the bucket for the same. Once configured you can make basic HTML pages using the static URL.*
 
 # **Security Group**
 - *A security groups acts as a virtual firewall that controls the traffic for one or more instances.*
