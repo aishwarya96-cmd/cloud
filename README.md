@@ -19,40 +19,13 @@ There are 3 types of clouds :
 
 # **Services of AWS**
 1.[Elastic Compute Cloud-EC2](https://github.com/aishwarya96-cmd/cloud/blob/services/ec2.md)
+
 2.[Simple Storage Service-S3](https://github.com/aishwarya96-cmd/cloud/blob/services/S3.md)
 
+3.[Security Group](https://github.com/aishwarya96-cmd/cloud/blob/services/security%20group.md)
 
-# **Security Group**
-- *A security groups acts as a virtual firewall that controls the traffic for one or more instances.*
-- *When we launch an instance we can specify one or more security groups; otherwise we can use the default security group.*
-- *After that we can set up ports and protocols, which remain open for users and computers over the internet.*
-- *Security Groups controls both inbound and outbound traffic.*
-- *For each security group, we add rules that control the inbound traffic to instances, and a separate set of rules that control the outbound traffic.* 
+4.[Relational Database Service-RDS](https://github.com/aishwarya96-cmd/cloud/blob/services/security%20group.md)
 
-## Inbound rule
-- *Inbound rules filter traffic passing from the network to the local computer based on the filtering conditions specified in the rule.*
-- *When we create a security group, it has no inbound rules. Therefore, no inbound traffic originating from another host to your instance is allowed until you add inbound rules to the security group.*
-
-## Outbound rule
-- *Outbound rules filter traffic passing from the local computer to the network based on the filtering conditions specified in the rule.* 
-- *By default a security group includes an outbound rule that allows all outbound traffic.*
-  *We can remove the rule and add outbound rules that allow specific outbound traffic only.*
-  
- # **Relational Database Service-RDS**
-- *RDS is a service which provides database connectivity through the Internet.*
-- *RDS is used to set up, manage and scale a relational database instance in the cloud.* 
-- *A database administrator can create, configure, manage and delete an  RDS instance, which is a cloud database environment, along with the compute and storage resources it uses.*
-- *RDS adds support for major and minor versions of database engines over time, and an admin can specify an engine version when he or she creates a database instance.*
-- *RDS is Cost-effective,you just pay for what you use, and nothing more. No upfront payment is needed, just the monthly usage payment.*
-- *It just takes a few minutes to scale your infrastructure up or down.*
-- *There are six database engines which RDS provides, and they are:*
-1. *Amazon Aurora*
-2.*PostgreSQL*
-3.*MySQL*
-4.*MariaDB*
-5.*Oracle Database*
-6.*Microsoft SQL Server*
-- *Once the database is created and the status is changed to Available you need to connect it with your local MySQL shell and can perform operations.*
 
 # **Steps for Writing and Compiling C++ on Linux**
 Kindly refer the below link for steps and examples on how to compile and run cpp programs on linux.
