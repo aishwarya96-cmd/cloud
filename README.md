@@ -18,7 +18,7 @@ There are 3 types of clouds :
 4. High storage capacity.
 
 # **Services of AWS**
-1.[Elastic Compute Cloud-EC2](https://github.com/aishwarya96-cmd/cloud/edit/services/ec2.md)
+1.[Elastic Compute Cloud-EC2](https://github.com/aishwarya96-cmd/cloud/blob/services/ec2.md)
 
 
 
