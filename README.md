@@ -24,7 +24,7 @@ There are 3 types of clouds :
 
 3.[Security Group](https://github.com/aishwarya96-cmd/cloud/blob/services/security%20group.md)
 
-4.[Relational Database Service-RDS](https://github.com/aishwarya96-cmd/cloud/blob/services/security%20group.md)
+4.[Relational Database Service-RDS](https://github.com/aishwarya96-cmd/cloud/blob/services/rds.md)
 
 
 # **Steps for Writing and Compiling C++ on Linux**
