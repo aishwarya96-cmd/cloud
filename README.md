@@ -26,6 +26,8 @@ There are 3 types of clouds :
 
 4.[Relational Database Service-RDS](https://github.com/aishwarya96-cmd/cloud/blob/services/rds.md)
 
+5.[Lambda](https://github.com/aishwarya96-cmd/cloud/blob/services/lambda.md)
+
 
 # **Steps for Writing and Compiling C++ on Linux**
 Kindly refer the below link for steps and examples on how to compile and run cpp programs on linux.
