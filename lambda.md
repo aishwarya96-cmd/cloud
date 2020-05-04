@@ -72,6 +72,10 @@ Step 14:As you see the changes made in the program as vita,dac,dbda are displaye
 
 ![image](https://github.com/aishwarya96-cmd/cloud/blob/images/images/lambda13.png)
 
+# **Lambda driven Automation service (Trigger lambda function using s3 service)***
+
+
+
 
 
 
