@@ -72,7 +72,52 @@ Step 14:As you see the changes made in the program as vita,dac,dbda are displaye
 
 ![image](https://github.com/aishwarya96-cmd/cloud/blob/images/images/lambda13.png)
 
-# **Lambda driven Automation service (Trigger lambda function using s3 service)***
+# **Lambda driven Automation service (Trigger lambda function using s3 service)**
+
+Step1: Click on services and select S3.
+
+Step2: Create a bucket and click on bucket name.
+
+Step 3:You will see the below window.Click on properties.
+
+![image](https://github.com/aishwarya96-cmd/cloud/blob/images/images/s3lambda1.png)
+
+Step 4:Scroll down and Select Events. Further Click on Add notification.
+
+![image](https://github.com/aishwarya96-cmd/cloud/blob/images/images/s3lambda2.png)
+
+Step 5: Enter the name and tick on the option as shown below.
+
+![image](https://github.com/aishwarya96-cmd/cloud/blob/images/images/s3lambda3.png)
+
+Step 6: Click on dropdown of send to and select lambda function and also select lambda function name .By this whenever you upload anything on s3 bucket selected lambda function will get trigger automatically.Later click on save.
+
+![image](https://github.com/aishwarya96-cmd/cloud/blob/images/images/s3lamda4.png)
+
+Step 7:Below is the output of lambda function which was already created. 
+
+![image](https://github.com/aishwarya96-cmd/cloud/blob/images/images/s3lamda5.png)
+
+Step 8:Now make some changes in the code and save it.Dont click on test as we need to see wheither the logs are created automatically by s3 or not.
+
+![image](https://github.com/aishwarya96-cmd/cloud/blob/images/images/s3lamda6.png)
+
+Step 9:Now again go in s3 bucket and upload any text file .
+
+![image](https://github.com/aishwarya96-cmd/cloud/blob/images/images/s3lamda7.png)
+
+Step 10:Now go in the cloudwatch service of aws and click on log groups to check your logs.
+
+![image](https://github.com/aishwarya96-cmd/cloud/blob/images/images/s3lamda8.png)
+
+select your lambda function.Here we have created function with name demo.
+
+![image](https://github.com/aishwarya96-cmd/cloud/blob/images/images/s3lamda9.png)
+
+Step 11:As you can see the changes made are automatically displayed in the log as we have triggered lambda from s3 .
+
+![image](https://github.com/aishwarya96-cmd/cloud/blob/images/images/s3lamda10.png)
+
 
 
 
