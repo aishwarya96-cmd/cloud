@@ -30,6 +30,8 @@ There are 3 types of clouds :
 
 6.[CloudTrail and CloudWatch](https://github.com/aishwarya96-cmd/cloud/blob/services/cloud%20trail%20and%20cloud%20watch%20.md)
 
+7.[Simple Notification Service-SNS](https://github.com/aishwarya96-cmd/cloud/blob/services/sns.md)
+
 
 # **Steps for Writing and Compiling C++ on Linux**
 Kindly refer the below link for steps and examples on how to compile and run cpp programs on linux.
